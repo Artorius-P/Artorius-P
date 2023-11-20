@@ -1,16 +1,53 @@
-### Hi there 👋
+<!-- README.md -->
 
-<!--
-**Artorius-P/Artorius-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Welcome to Artorius-P's GitHub Profile! 👋</h1>
 
-Here are some ideas to get you started:
+<!-- Retro Terminal Style Background -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x150/000000/008000?text=Welcome+to+Retro+Terminal" alt="Welcome to Retro Terminal"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ASCII Art and Personal Introduction -->
+<pre>
+  _____________________________________________________________________________
+ |                                                                             |
+ |                          Welcome to my GitHub Profile!                      |
+ |_____________________________________________________________________________|
+ |                                                                             |
+ |  About Me:                                                                  |
+ |  - 🌱 I’m currently learning Rust and Go                                    |
+ |  - 💬 Ask me about Network and Blockchain                                   |
+ |  - 📫 How to reach me: artorius-p@outlook.com                               |
+ |_____________________________________________________________________________|
+
+</pre>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Artorius-P&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<!-- Dynamic GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artorius-P&theme=dark" alt="GitHub Contribution Graph" />
+</p>
+
+
+<!-- ASCII Art -->
+<pre>
+    _________________________
+   /                         \
+  |  Stay curious, keep coding! |
+   \_________________________/
+</pre>
+
+<!-- Contact Information -->
+## 📫 Contact Information
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn Profile]
+- Website: [Your Website or Blog]
+
+<!-- Footer -->
+<footer align="center">
+  ⭐️ From [Your Username]
+</footer>

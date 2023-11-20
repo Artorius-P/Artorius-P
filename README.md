@@ -4,12 +4,7 @@
 
 <!-- Retro Terminal Style Background -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x150/000000/008000?text=Welcome+to+Retro+Terminal" alt="Welcome to Retro Terminal"/>
-</p>
-
-<!-- ASCII Art and Personal Introduction -->
-<pre>
-  _____________________________________________________________________________
+  <img src="https://via.placeholder.com/800x150/000000/008000?text=Welcome+to+Retro+Terminal" alt="  _____________________________________________________________________________
  |                                                                             |
  |                          Welcome to my GitHub Profile!                      |
  |_____________________________________________________________________________|
@@ -18,7 +13,12 @@
  |  - 🌱 I’m currently learning Rust and Go                                    |
  |  - 💬 Ask me about Network and Blockchain                                   |
  |  - 📫 How to reach me: artorius-p@outlook.com                               |
- |_____________________________________________________________________________|
+ |_____________________________________________________________________________|"/>
+</p>
+
+<!-- ASCII Art and Personal Introduction -->
+<pre>
+
 
 </pre>
 

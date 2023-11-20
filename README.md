@@ -4,7 +4,9 @@
 
 <!-- Retro Terminal Style Background -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x150/000000/008000?text=Welcome+to+Retro+Terminal" alt="  _____________________________________________________________________________
+  <img src="https://via.placeholder.com/800x200/000000/008000?text=Cyber+Retro+Terminal" alt="Cyber Retro Terminal Header"/>
+</p>
+ _____________________________________________________________________________
  |                                                                             |
  |                          Welcome to my GitHub Profile!                      |
  |_____________________________________________________________________________|
@@ -13,9 +15,7 @@
  |  - 🌱 I’m currently learning Rust and Go                                    |
  |  - 💬 Ask me about Network and Blockchain                                   |
  |  - 📫 How to reach me: artorius-p@outlook.com                               |
- |_____________________________________________________________________________|"/>
-</p>
-
+ |_____________________________________________________________________________|
 <!-- ASCII Art and Personal Introduction -->
 <pre>
 

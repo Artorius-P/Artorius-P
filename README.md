@@ -33,14 +33,3 @@
   |  Stay curious, keep coding! |
    \_________________________/
 </pre>
-
-<!-- Contact Information -->
-## 📫 Contact Information
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- Website: [Your Website or Blog]
-
-<!-- Footer -->
-<footer align="center">
-  ⭐️ From [Your Username]
-</footer>
